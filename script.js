@@ -443,7 +443,7 @@ Focus: Ethical Hacking, Vulnerability Assessment, Network Scanning & AppSec.
   • Phone:    <a href="tel:+917395949874" style="color:#38bdf8;">+91-7395949874</a>
   • Email:    <a href="mailto:thanigaveldasa29@gmail.com" style="color:#38bdf8;">thanigaveldasa29@gmail.com</a>
   • LinkedIn: <a href="https://linkedin.com" target="_blank" style="color:#38bdf8;">linkedin.com</a>
-  • GitHub:   <a href="https://github.com" target="_blank" style="color:#38bdf8;">github.com</a>
+  • GitHub:   <a href="https://github.com/thanigaveldasa29-byte" target="_blank" style="color:#38bdf8;">github.com/thanigaveldasa29-byte</a>
     `,
     nmap: `
 Starting Nmap 7.94 ( https://nmap.org ) at ${new Date().toLocaleTimeString()}
